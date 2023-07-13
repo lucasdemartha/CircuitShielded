@@ -1,2 +1,2 @@
 # Circuit Shielded
-Repositório do projeto Circuit Shielded - [#Fetin2023](https://inatel.br/fetin/)
+Repositório do projeto Circuit Shielded - [#FETIN2023](https://inatel.br/fetin/)
